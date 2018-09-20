@@ -41,3 +41,17 @@ Jared has been an important player in the Real Money Trade industry of virtual i
 The game development team in Shenzhen, China is hard at work creating blockchain gaming experiences for our fans to enjoy. Also in Shenzhen you can find most of our marketing team, as well as general operations and specialized blockchain application development teams. Finally, we have a BitGuild outpost in Tokyo, Japan focused on community and business development in Asia.
 
 BitGuild is still growing! We currently have over 80 employees from 10+ countries working on game development, platform engineering, business development, marketing, public relations, and more!
+
+You can find BitGuild on the web by following any of the links below:
+
+Official Blog: https://btgld.co/BlogTSR
+
+Twitter: https://btgld.co/TwitterTSR
+
+Telegram: https://btgld.co/TelegramTSR
+
+Facebook: https://btgld.co/FacebookTSR
+
+Reddit: https://btgld.co/RedditTSR
+
+Discord: https://btgld.co/DiscordTSR
